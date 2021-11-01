@@ -8,7 +8,9 @@
 * 😄 The FE road, we work hard together
 * ⚡ Brewing......
 * 🗒️ planning
-  - [ ] webpack-dev-server HMR
+  - [x] webpack-dev-server HMR
+  - [ ] vue2 prerender
+  - [ ] vue2/vite/nuxt/next ssr
   - [ ] vite HMR
   - [ ] React + TS 组件库
 
