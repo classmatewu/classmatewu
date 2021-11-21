@@ -8,11 +8,12 @@
 * 😄 The FE road, we work hard together
 * ⚡ Brewing......
 * 🗒️ planning
+
+  - [x] ToyWebpack
+  - [x] ToyVite
   - [x] webpack-dev-server HMR
+  - [ ] vite HMR
   - [ ] vue2 prerender
   - [ ] vue2/vite/nuxt/next ssr
-  - [ ] vite HMR
-  - [ ] React + TS 组件库
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=azl397985856&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+  - [ ] TypeScript Advanced
+  - [ ] ToyDesign - React + TS 组件库
